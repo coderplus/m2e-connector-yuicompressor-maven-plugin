@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<description name="m2e connector for yuicompressor-maven-plugin">
+		m2E connector for yuicompressor-maven-plugin
+	</description>
+	<feature url="features/com.coderplus.m2e.yuicompressorfeature_0.0.1.201410041438.jar"
+			id="com.coderplus.m2e.yuicompressorfeature"
+			version="0.0.1.201410041438">
+		<category name="m2e-connector-for-yuicompressor-maven-plugin"/>
+	</feature>
+	<category-def name="m2e-connector-for-yuicompressor-maven-plugin" label="CoderPlus M2E Connectors">
+      <description>
+         m2e connector for yuicompressor-maven-plugin
+      </description>
+   </category-def>
+</site>
